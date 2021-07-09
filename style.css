@@ -9,10 +9,9 @@ body {
 nav {
     height: 70px;
     display: flex;
-    position: fixed;
     right: 0;
     left: 0;
-    overflow: hidden;
+
 }
 
 .secondary-block {
